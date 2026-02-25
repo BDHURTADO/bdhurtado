@@ -1,149 +1,122 @@
-<!-- ===================================================== -->
-<!-- BRAHIAN OS · INTERACTIVE GITHUB PROFILE              -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!-- BRAHIAN DANILO HURTADO · DESARROLLADOR             -->
+<!-- ========================================================= -->
 
-<h1 align="center">🧠 BRAHIAN OS</h1>
-<p align="center"><b>Brahian Danilo Hurtado Muñoz · Software Developer</b></p>
+<h1 align="center">BRAHIAN DANILO HURTADO</h1>
+<p align="center">
+Desarrollador de Software · Full Stack · Arquitectura de Sistemas
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Brahian+OS...;Loading+Backend+Core...;Initializing+Data+Integrity+Engine...;Audit+Systems+Online...;System+Ready."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&duration=3500&color=4FD1C5&center=true&vCenter=true&width=720&lines=Desarrollo+de+software+escalable;Arquitectura+backend+y+frontend;Ingeniería+de+datos+relacionales;Sistemas+seguros+y+trazables"/>
 </p>
 
 ---
 
-# 🎮 SELECT MODE
+## Identidad Profesional
 
-<p align="center">
+Desarrollador y estudiante de ingenieria de software con enfoque **Full Stack**, especializado en la construcción de aplicaciones modernas, seguras y escalables, integrando frontend, backend y bases de datos bajo arquitecturas limpias y mantenibles.
 
-<a href="#-identity">🧬 IDENTITY</a> •
-<a href="#-missions">🛰 MISSIONS</a> •
-<a href="#-stats">⚙️ STATS</a> •
-<a href="#-repo-world">🎯 REPO WORLD</a> •
-<a href="#-terminal">🛰 TERMINAL</a> •
-<a href="#-connect">🌐 CONNECT</a>
+Mi trabajo se centra en diseñar sistemas donde:
 
-</p>
+- la lógica es clara  
+- los datos son consistentes  
+- la interfaz es eficiente  
+- la arquitectura es sostenible  
 
 ---
 
-# 🧬 IDENTITY
-Name: Brahian Danilo Hurtado Muñoz
-Role: Software Developer
-Class: Backend Architect
-Focus: Python · PostgreSQL · APIs · reac ·  js · TypeScript · django · node.js
-Status: ACTIVE
+## Enfoque de Ingeniería
+
+Perfil Full Stack Developer
+Fortalezas Frontend · Backend · Bases de Datos
+Especialidad Arquitectura de aplicaciones web
+Stack base JavaScript · Python · SQL
+Principio Sistemas claros, sólidos y escalables
 
 
-
-Desarrollador enfocado en sistemas **escalables, auditables y seguros**.  
-Especialista en backend Python y arquitectura de datos con PostgreSQL.  
-Construyo plataformas donde cada cambio es rastreable y verificable.
 
 ---
 
-# 🛰 MISSIONS
+## Sistemas Destacados
 
-## 🏙️ CondoSys — Residential Control System
-Sistema de gestión residencial con auditoría total de datos.
+### CondoSys  
+Plataforma de gestión residencial con trazabilidad completa de datos y arquitectura modular.
 
-**Tech Core**
-- PostgreSQL + JSONB audit
-- Triggers PL/pgSQL
-- API REST Python
-- React SPA
-- CI/CD Vercel
+**Arquitectura**
+- PostgreSQL con auditoría transaccional (JSONB)
+- Triggers en PL/pgSQL
+- API REST en Python
+- SPA en React
+- Despliegue CI/CD
 
-👉 **ENTER MISSION**  
-https://github.com/TU_USUARIO/condosys  
+proyecto
+https://consosys.vercel.app/dashboard
 
 ---
 
-## 🌍 Climate Manager — Real-Time Weather Engine
-Motor de clima global en tiempo real.
+### Gestor de Climas  
+Servicio de consulta climática global en tiempo real mediante integración de APIs externas.
 
-**Capabilities**
-- Integración de APIs
-- Geolocalización global
+**Capacidades**
+- Consumo de APIs meteorológicas
 - Normalización de datos
-- Respuesta en tiempo real
+- Consultas por ubicación
+- Backend escalable
 
-👉 **ENTER MISSION**  
-https://github.com/TU_USUARIO/gestor-climas  
+proyecto
+https://weather-app-project-two-mocha.vercel.app/
 
 ---
 
-# ⚙️ STATS
+## Arquitectura Tecnológica
 
-Backend ██████████████░ 95
-Databases █████████████░░ 90
-Architecture ████████████░░░ 88
-React ███████████░░░░ 80
-DevOps █████████░░░░░░ 75
+**Frontend**  
+React · TypeScript · TailwindCSS · Vite  
 
+**Backend**  
+Python · FastAPI · Flask · APIs REST  
+
+**Bases de Datos**  
+PostgreSQL · SQL · JSONB · Optimización  
+
+**Dev & Deploy**  
+Git · Docker · CI/CD · Vercel  
+
+---
+
+## Principios de Desarrollo
+
+- El frontend comunica, el backend procesa, la base de datos preserva  
+- La arquitectura define la calidad del software  
+- Los sistemas deben ser mantenibles y escalables  
+- La simplicidad es una decisión de diseño  
+- La coherencia técnica genera confiabilidad  
+
+---
+
+## Actividad Técnica
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,react,ts,tailwind,docker,git,vercel"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BDHURTADO&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 REPO WORLD
+## Contacto
 
-Explora mis repos como niveles desbloqueados.
+Portafolio  
+https://portafolio-profesional-beryl.vercel.app/
 
-<p align="center">
+LinkedIn  
+https://www.linkedin.com/in/bdhurtado13
 
-<a href="https://github.com/TU_USUARIO?tab=repositories">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/TU_USUARIO?tab=stars">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight"/>
-</a>
-
-</p>
-
-
-LEVELS:
-
-[✔] CondoSys
-[✔] Climate Engine
-[ ] AI Systems
-[ ] Cybersecurity Lab
-[ ] AgroTech Platform
-
+Email  
+brahianhurtado800@gmail.com
 
 ---
 
-# 📊 SYSTEM METRICS
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
-
+Desarrollando software sólido, funcional y escalable.
 </p>
 
----
-
-# 🛰 TERMINAL
-
-```bash
-visitor@brahian-os:~$ whoami
-Brahian Danilo Hurtado Muñoz
-
-visitor@brahian-os:~$ role
-Backend Architect
-
-visitor@brahian-os:~$ stack
-Python · PostgreSQL · React · FastAPI
-
-visitor@brahian-os:~$ open mission
-CondoSys
-
-visitor@brahian-os:~$ philosophy
-Traceability matters
-
-visitor@brahian-os:~$ status
-Building the future...
