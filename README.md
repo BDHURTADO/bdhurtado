@@ -1,130 +1,125 @@
-<!-- ========================================================= -->
-<!-- BRAHIAN DANILO HURTADO MUÑOZ · FUTURE SOFTWARE ENGINEER  -->
-<!-- ========================================================= -->
+<!-- ===================================================== -->
+<!-- BRAHIAN OS · INTERACTIVE GITHUB PROFILE              -->
+<!-- ===================================================== -->
 
-<h1 align="center">
-⚡ BRAHIAN DANILO HURTADO MUÑOZ
-</h1>
-
-<p align="center">
-<strong>Full Stack Software Developer · Backend Architect · Data Integrity Engineer</strong>
-</p>
+<h1 align="center">🧠 BRAHIAN OS</h1>
+<p align="center">Interactive Developer System</p>
 
 <p align="center">
-Construyendo software escalable, auditable y orientado al futuro.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+Brahian+OS...;Loading+Backend+Core...;Initializing+Data+Integrity+Engine...;System+Ready."/>
 </p>
 
 ---
 
-# 🧬 Arquitecto de Sistemas con Mentalidad de Precisión
+# 🎮 SELECT MODE
 
-Soy desarrollador de software especializado en la construcción de aplicaciones **robustas, seguras y trazables** dentro del ecosistema Python.  
-Mi enfoque central es la **integridad de los datos, la automatización de procesos y la arquitectura backend avanzada**.
+<p align="center">
 
-Diseño sistemas donde cada acción queda registrada, cada dato tiene contexto y cada proceso es verificable.
+[🧬 ABOUT](#-identity) •
+[🛰 PROJECTS](#-missions) •
+[⚙️ SKILLS](#-stats) •
+[🌐 CONTACT](#-connect) •
+[🎯 GITHUB GAME](#-repo-world)
 
-> “El software no solo debe funcionar; debe poder demostrar que funciona.”
-
----
-
-# 🛰️ Proyectos Núcleo
-
-## 🏙️ CondoSys — High Performance Residential System
-
-**Sistema de gestión residencial con trazabilidad total de datos y auditoría transaccional.**
-
-### 🧠 Arquitectura del sistema
-
-
-
-### ⚙️ Características técnicas
-
-- Auditoría automática de cambios en base de datos
-- Registro OLD/NEW en JSONB por fila
-- API REST con control de estados
-- Middleware de seguridad
-- Arquitectura limpia modular
-- CI/CD automatizado
-
-### 🗄️ Núcleo de datos
-
-- PostgreSQL avanzado
-- Triggers en PL/pgSQL
-- JSONB estructurado
-- Historial transaccional completo
-
-> CondoSys no administra propiedades.  
-> **Administra la verdad de los datos.**
+</p>
 
 ---
 
-## 🌍 Gestor de Climas — Real-Time Climate Engine
+# 🧬 IDENTITY
 
-Sistema que consume y orquesta APIs meteorológicas para mostrar el clima en cualquier ubicación del mundo en tiempo real.
 
-### Capacidades
 
-- Integración de múltiples APIs climáticas
+Soy desarrollador enfocado en sistemas escalables, auditables y seguros.  
+Mi especialidad es el backend en Python y la arquitectura de datos con PostgreSQL.
+
+---
+
+# 🛰 MISSIONS
+
+## 🏙️ CondoSys — Residential Control System
+Sistema de gestión residencial con auditoría total de datos.
+
+- PostgreSQL + JSONB audit
+- API REST Python
+- React SPA
+- CI/CD Vercel
+
+👉 ENTER: https://github.com/TU_USUARIO/condosys
+
+---
+
+## 🌍 Climate Manager — Real-Time Weather Engine
+Motor de clima global en tiempo real.
+
+- Integración de APIs
+- Geolocalización
 - Normalización de datos
-- Geolocalización global
-- Respuesta en tiempo real
-- Arquitectura escalable
+
+👉 ENTER: https://github.com/TU_USUARIO/gestor-climas
 
 ---
 
-# 🧱 Stack Tecnológico
+# ⚙️ STATS
 
-## 🗄️ Data Layer
-`PostgreSQL` · `JSONB` · Optimización SQL · Triggers · Auditoría
-
-## ⚙️ Backend
-`Python` · `FastAPI` · `Flask` · Clean Architecture · REST APIs
-
-## 🎨 Frontend
-`React` · `TypeScript` · `Vite` · `TailwindCSS` · State Management
-
-## 🚀 DevOps
-`Docker` · `GitHub Actions` · `Vercel` · CI/CD · Env Security
 
 ---
 
-# 📊 Ecosistema GitHub
+# 🎯 REPO WORLD
+
+Explora mis repos como si fueran niveles:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<a href="https://github.com/TU_USUARIO?tab=repositories">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=tokyonight"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="170">
+<a href="https://github.com/TU_USUARIO?tab=stars">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=tokyonight"/>
+</a>
 
 </p>
 
 ---
 
-# 🧠 Filosofía de Ingeniería
+# 🕹️ GITHUB GAME
 
-- Los datos son evidencia, no solo información  
-- Todo cambio debe ser rastreable  
-- La automatización reduce el error humano  
-- La arquitectura define la vida del sistema  
-- Backend primero, frontend después  
+Cada repo es un nivel.  
+Tu misión: explorarlos.
 
----
 
-# 🌐 Portal Profesional
-
-🔗 Web: https://portafolio-profesional-beryl.vercel.app/  
-💼 LinkedIn: https://www.linkedin.com/in/bdhurtado13  
-📧 Email: brahianhurtado800@gmail.com  
-b
----
-
-# ⚡ Estado Actual
-
-- Desarrollando sistemas auditables
-- Explorando arquitecturas escalables
-- Construyendo soluciones orientadas a datos
-- En evolución constante
 
 ---
 
-# 🧩 Identidad Técnica
+# 📊 SYSTEM METRICS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 CONNECT
+
+🌍 Web → https://portafolio-profesional-beryl.vercel.app/  
+💼 LinkedIn → https://www.linkedin.com/in/bdhurtado13  
+📧 Email → brahianhurtado800@gmail.com  
+
+---
+
+# 🧠 SYSTEM PHILOSOPHY
+
+---
+
+# 🛰 TERMINAL
+
+
+---
+
+<p align="center">
+⚡ BRAHIAN OS RUNNING
+</p>
