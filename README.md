@@ -3,10 +3,10 @@
 <!-- ===================================================== -->
 
 <h1 align="center">🧠 BRAHIAN OS</h1>
-<p align="center">Interactive Developer System</p>
+<p align="center"><b>Brahian Danilo Hurtado Muñoz · Software Developer</b></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Booting+Brahian+OS...;Loading+Backend+Core...;Initializing+Data+Integrity+Engine...;System+Ready."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Booting+Brahian+OS...;Loading+Backend+Core...;Initializing+Data+Integrity+Engine...;Audit+Systems+Online...;System+Ready."/>
 </p>
 
 ---
@@ -15,22 +15,29 @@
 
 <p align="center">
 
-[🧬 ABOUT](#-identity) •
-[🛰 PROJECTS](#-missions) •
-[⚙️ SKILLS](#-stats) •
-[🌐 CONTACT](#-connect) •
-[🎯 GITHUB GAME](#-repo-world)
+<a href="#-identity">🧬 IDENTITY</a> •
+<a href="#-missions">🛰 MISSIONS</a> •
+<a href="#-stats">⚙️ STATS</a> •
+<a href="#-repo-world">🎯 REPO WORLD</a> •
+<a href="#-terminal">🛰 TERMINAL</a> •
+<a href="#-connect">🌐 CONNECT</a>
 
 </p>
 
 ---
 
 # 🧬 IDENTITY
+Name: Brahian Danilo Hurtado Muñoz
+Role: Software Developer
+Class: Backend Architect
+Focus: Python · PostgreSQL · APIs · reac ·  js · TypeScript · django · node.js
+Status: ACTIVE
 
 
 
-Soy desarrollador enfocado en sistemas escalables, auditables y seguros.  
-Mi especialidad es el backend en Python y la arquitectura de datos con PostgreSQL.
+Desarrollador enfocado en sistemas **escalables, auditables y seguros**.  
+Especialista en backend Python y arquitectura de datos con PostgreSQL.  
+Construyo plataformas donde cada cambio es rastreable y verificable.
 
 ---
 
@@ -39,34 +46,50 @@ Mi especialidad es el backend en Python y la arquitectura de datos con PostgreSQ
 ## 🏙️ CondoSys — Residential Control System
 Sistema de gestión residencial con auditoría total de datos.
 
+**Tech Core**
 - PostgreSQL + JSONB audit
+- Triggers PL/pgSQL
 - API REST Python
 - React SPA
 - CI/CD Vercel
 
-👉 ENTER: https://github.com/TU_USUARIO/condosys
+👉 **ENTER MISSION**  
+https://github.com/TU_USUARIO/condosys  
 
 ---
 
 ## 🌍 Climate Manager — Real-Time Weather Engine
 Motor de clima global en tiempo real.
 
+**Capabilities**
 - Integración de APIs
-- Geolocalización
+- Geolocalización global
 - Normalización de datos
+- Respuesta en tiempo real
 
-👉 ENTER: https://github.com/TU_USUARIO/gestor-climas
+👉 **ENTER MISSION**  
+https://github.com/TU_USUARIO/gestor-climas  
 
 ---
 
 # ⚙️ STATS
 
+Backend ██████████████░ 95
+Databases █████████████░░ 90
+Architecture ████████████░░░ 88
+React ███████████░░░░ 80
+DevOps █████████░░░░░░ 75
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,react,ts,tailwind,docker,git,vercel"/>
+</p>
 
 ---
 
 # 🎯 REPO WORLD
 
-Explora mis repos como si fueran niveles:
+Explora mis repos como niveles desbloqueados.
 
 <p align="center">
 
@@ -80,13 +103,14 @@ Explora mis repos como si fueran niveles:
 
 </p>
 
----
 
-# 🕹️ GITHUB GAME
+LEVELS:
 
-Cada repo es un nivel.  
-Tu misión: explorarlos.
-
+[✔] CondoSys
+[✔] Climate Engine
+[ ] AI Systems
+[ ] Cybersecurity Lab
+[ ] AgroTech Platform
 
 
 ---
@@ -103,23 +127,23 @@ Tu misión: explorarlos.
 
 ---
 
-# 🌐 CONNECT
-
-🌍 Web → https://portafolio-profesional-beryl.vercel.app/  
-💼 LinkedIn → https://www.linkedin.com/in/bdhurtado13  
-📧 Email → brahianhurtado800@gmail.com  
-
----
-
-# 🧠 SYSTEM PHILOSOPHY
-
----
-
 # 🛰 TERMINAL
 
+```bash
+visitor@brahian-os:~$ whoami
+Brahian Danilo Hurtado Muñoz
 
----
+visitor@brahian-os:~$ role
+Backend Architect
 
-<p align="center">
-⚡ BRAHIAN OS RUNNING
-</p>
+visitor@brahian-os:~$ stack
+Python · PostgreSQL · React · FastAPI
+
+visitor@brahian-os:~$ open mission
+CondoSys
+
+visitor@brahian-os:~$ philosophy
+Traceability matters
+
+visitor@brahian-os:~$ status
+Building the future...
