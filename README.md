@@ -115,7 +115,7 @@ Sistema que consume y orquesta APIs meteorológicas para mostrar el clima en cua
 🔗 Web: https://portafolio-profesional-beryl.vercel.app/  
 💼 LinkedIn: https://www.linkedin.com/in/bdhurtado13  
 📧 Email: brahianhurtado800@gmail.com  
-
+b
 ---
 
 # ⚡ Estado Actual
