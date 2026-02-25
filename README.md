@@ -1,59 +1,130 @@
-#  brahian danilo hurtado muñoz | Full Stack desarrollador de software jr
+<!-- ========================================================= -->
+<!-- BRAHIAN DANILO HURTADO MUÑOZ · FUTURE SOFTWARE ENGINEER  -->
+<!-- ========================================================= -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<h1 align="center">
+⚡ BRAHIAN DANILO HURTADO MUÑOZ
+</h1>
 
----
-
-### 🖋️ Perfil Profesional
-desarrollador de Software enfocado en la construcción de aplicaciones escalables y seguras. Especialista en la optimización de bases de datos relacionales y el desarrollo de arquitecturas robustas bajo el ecosistema Python. Mi enfoque principal es la integridad de los datos y la automatización de procesos mediante lógica de backend avanzada.
-
----
-
-### 🏗️ Proyecto Destacado: CondoSys 
-**Sistema de Gestión Residencial de Alto Rendimiento**
-
-### 🏗️ Proyecto Destacado: gestor de climas 
-**gestor de climas en tiempo real**
-
-
-
-CondoSys no es solo una plataforma de administración; es una solución diseñada para la trazabilidad total. 
-
-* **Arquitectura de Datos:** Diseñada en **PostgreSQL**, implementando un sistema de **Auditoría Transaccional** mediante disparadores (Triggers) en PL/pgSQL que registran el estado `OLD` y `NEW` de cada fila en formato **JSONB**.
-* **Backend:** API REST desarrollada en **Python** con gestión de estados y middleware de seguridad.
-* **Frontend:** Aplicación SPA construida con **React y Vite**, enfocada en la eficiencia de renderizado y experiencia de usuario (UX).
-* **DevOps:** Pipeline de despliegue continuo (CI/CD) integrado en **Vercel** con variables de entorno protegidas.
-
----
-
-gestor de climas: es un proyecto que gestiona apis para mostrar el clima de cualquier lugar del mundo 
-
-
-### 🛠️ Tech Stack & Skills
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Bases de Datos** | PostgreSQL (Avanzado), JSONB, Query Optimization, Triggers. |
-| **Backend** | Python, FastAPI, Flask, Arquitectura Limpia. |
-| **Frontend** | React, Tailwind CSS, TypeScript, State Management. |
-| **Herramientas** | Git, Docker, Vercel, GitHub Actions. |
-
----
-
-### 📈 GitHub Ecosystem Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[bdhurtado]&show_icons=true&title_color=007acc&icon_color=007acc&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[bdhurtado]&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=151515" />
+<strong>Full Stack Software Developer · Backend Architect · Data Integrity Engineer</strong>
+</p>
+
+<p align="center">
+Construyendo software escalable, auditable y orientado al futuro.
 </p>
 
 ---
 
-### 📧 Conectemos
-* **LinkedIn:** www.linkedin.com/in/bdhurtado13
-* **Web Personal:** https://portafolio-profesional-beryl.vercel.app/
-* **Email:** brahianhurtado800@gmail.com
+# 🧬 Arquitecto de Sistemas con Mentalidad de Precisión
+
+Soy desarrollador de software especializado en la construcción de aplicaciones **robustas, seguras y trazables** dentro del ecosistema Python.  
+Mi enfoque central es la **integridad de los datos, la automatización de procesos y la arquitectura backend avanzada**.
+
+Diseño sistemas donde cada acción queda registrada, cada dato tiene contexto y cada proceso es verificable.
+
+> “El software no solo debe funcionar; debe poder demostrar que funciona.”
+
+---
+
+# 🛰️ Proyectos Núcleo
+
+## 🏙️ CondoSys — High Performance Residential System
+
+**Sistema de gestión residencial con trazabilidad total de datos y auditoría transaccional.**
+
+### 🧠 Arquitectura del sistema
+
+
+
+### ⚙️ Características técnicas
+
+- Auditoría automática de cambios en base de datos
+- Registro OLD/NEW en JSONB por fila
+- API REST con control de estados
+- Middleware de seguridad
+- Arquitectura limpia modular
+- CI/CD automatizado
+
+### 🗄️ Núcleo de datos
+
+- PostgreSQL avanzado
+- Triggers en PL/pgSQL
+- JSONB estructurado
+- Historial transaccional completo
+
+> CondoSys no administra propiedades.  
+> **Administra la verdad de los datos.**
+
+---
+
+## 🌍 Gestor de Climas — Real-Time Climate Engine
+
+Sistema que consume y orquesta APIs meteorológicas para mostrar el clima en cualquier ubicación del mundo en tiempo real.
+
+### Capacidades
+
+- Integración de múltiples APIs climáticas
+- Normalización de datos
+- Geolocalización global
+- Respuesta en tiempo real
+- Arquitectura escalable
+
+---
+
+# 🧱 Stack Tecnológico
+
+## 🗄️ Data Layer
+`PostgreSQL` · `JSONB` · Optimización SQL · Triggers · Auditoría
+
+## ⚙️ Backend
+`Python` · `FastAPI` · `Flask` · Clean Architecture · REST APIs
+
+## 🎨 Frontend
+`React` · `TypeScript` · `Vite` · `TailwindCSS` · State Management
+
+## 🚀 DevOps
+`Docker` · `GitHub Actions` · `Vercel` · CI/CD · Env Security
+
+---
+
+# 📊 Ecosistema GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" height="170">
+
+</p>
+
+---
+
+# 🧠 Filosofía de Ingeniería
+
+- Los datos son evidencia, no solo información  
+- Todo cambio debe ser rastreable  
+- La automatización reduce el error humano  
+- La arquitectura define la vida del sistema  
+- Backend primero, frontend después  
+
+---
+
+# 🌐 Portal Profesional
+
+🔗 Web: https://portafolio-profesional-beryl.vercel.app/  
+💼 LinkedIn: https://www.linkedin.com/in/bdhurtado13  
+📧 Email: brahianhurtado800@gmail.com  
+
+---
+
+# ⚡ Estado Actual
+
+- Desarrollando sistemas auditables
+- Explorando arquitecturas escalables
+- Construyendo soluciones orientadas a datos
+- En evolución constante
+
+---
+
+# 🧩 Identidad Técnica
