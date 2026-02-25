@@ -1,4 +1,4 @@
-# 👨‍💻 [Tu Nombre] | Full Stack Software Engineer
+#  brahian danilo hurtado muñoz | Full Stack desarrollador de software jr
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
